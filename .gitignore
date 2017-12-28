@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#source csv file
+*.csv
+
+#output vcard files
+output/*.vcard
+
+#IDE files
+.idea
